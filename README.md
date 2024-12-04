@@ -27,7 +27,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lin
 1. **Clone repositori ini:**
 
    ```bash
-   git clone https://github.com/nurlailiaanisa/nutribiteModel.git
+   git clone https://github.com/M12dle/NutriBITE
    cd nutribiteModel/app
 
 2. **Buat environment virtual dan aktifkan::**
