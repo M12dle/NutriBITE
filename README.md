@@ -8,7 +8,7 @@ Proyek ini menggunakan teknik *Natural Language Processing* (NLP) dan *Machine L
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Lisensi](#lisensi)
-- [Dibuat](#Dibuat oleh)
+- [Dibuat](#Dibuatoleh)
 
 ## Pendahuluan
 
