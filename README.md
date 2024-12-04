@@ -28,7 +28,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lin
 
    ```bash
    git clone https://github.com/M12dle/NutriBITE
-   cd nutribiteModel/app
+   cd NutriBITE/app
 
 2. **Buat environment virtual dan aktifkan::**
    ```bash
